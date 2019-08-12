@@ -1,0 +1,1 @@
+[{u'ResetDate': u'31-07-2019_13:01', u'ProviderID': u'2', u'RequestCount': u'20', u'ProviderName': u'Azure'}, {u'ResetDate': u'31-07-2019_13:01', u'ProviderID': u'1', u'RequestCount': u'10', u'ProviderName': u'AWS'}, {u'ResetDate': u'31-07-2019_13:01', u'ProviderID': u'3', u'RequestCount': u'30', u'ProviderName': u'Google'}]
